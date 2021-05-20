@@ -2,8 +2,8 @@
 
 This is a simple console-based Hotel Management System written in C. It allows users to perform various operations such as booking a room, viewing customer records, deleting customer records, searching for customer records, and editing customer records.
 
-!(hsmc.PNG)
-!(hsmc2.PNG)
+![Demo_Image](hsmc.PNG)
+![Demo_Image](hsmc2.PNG)
 
 ## Features
 
